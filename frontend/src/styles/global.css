@@ -1,0 +1,79 @@
+/* Apply a smooth, modern font to the entire app */
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8fafc; /* Light gray background */
+    color: #333; /* Dark gray text */
+  }
+  
+  /* Center all main content */
+  h1, h2, h3, p {
+    text-align: center;
+  }
+  
+  /* Add smooth animations */
+  button {
+    transition: background-color 0.2s ease, transform 0.1s ease;
+  }
+  
+  /* Style buttons */
+  button {
+    display: block;
+    width: 200px;
+    padding: 12px;
+    margin: 10px auto;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /* Button hover and click effects */
+  button:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+  }
+  
+  button:active {
+    transform: scale(0.98);
+  }
+  
+  /* Input fields */
+  input {
+    width: 250px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  
+  /* Make input focus stand out */
+  input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  /* Add a simple card layout */
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 400px;
+  }
+  
+  /* Link styling */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

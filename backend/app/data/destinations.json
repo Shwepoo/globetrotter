@@ -1,0 +1,1602 @@
+[
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in France, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Paris has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Paris often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Japan, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Tokyo has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Tokyo often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in USA, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "New York has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in New York often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in UK, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "London has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in London often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Rome",
+        "country": "Italy",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Italy, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Rome has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Rome often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Cairo",
+        "country": "Egypt",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Egypt, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Cairo has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Cairo often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Australia, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Sydney has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Sydney often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Brazil, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Rio de Janeiro has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Rio de Janeiro often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in South Africa, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Cape Town has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Cape Town often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Thailand, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Bangkok has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Bangkok often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Dubai",
+        "country": "UAE",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in UAE, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Dubai has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Dubai often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Moscow",
+        "country": "Russia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Russia, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Moscow has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Moscow often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Toronto",
+        "country": "Canada",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Canada, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Toronto has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Toronto often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Beijing",
+        "country": "China",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in China, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Beijing has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Beijing often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Turkey, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Istanbul has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Istanbul often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Argentina, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Buenos Aires has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Buenos Aires often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Seoul",
+        "country": "South Korea",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in South Korea, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Seoul has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Seoul often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Athens",
+        "country": "Greece",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Greece, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Athens has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Athens often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Mexico, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Mexico City has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Mexico City often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Lisbon",
+        "country": "Portugal",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Portugal, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Lisbon has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Lisbon often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Netherlands, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Amsterdam has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Amsterdam often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Singapore",
+        "country": "Singapore",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Singapore, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Singapore has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Singapore often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Berlin",
+        "country": "Germany",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Germany, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Berlin has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Berlin often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Vienna",
+        "country": "Austria",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Austria, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Vienna has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Vienna often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Madrid",
+        "country": "Spain",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Spain, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Madrid has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Madrid often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Prague",
+        "country": "Czech Republic",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Czech Republic, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Prague has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Prague often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Vietnam, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Hanoi has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Hanoi often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Indonesia, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Jakarta has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Jakarta often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Dublin",
+        "country": "Ireland",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Ireland, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Dublin has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Dublin often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Sweden, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Stockholm has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Stockholm often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Helsinki",
+        "country": "Finland",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Finland, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Helsinki has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Helsinki often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "Norway",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Norway, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Oslo has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Oslo often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Denmark, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Copenhagen has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Copenhagen often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Malaysia, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Kuala Lumpur has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Kuala Lumpur often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Bangalore",
+        "country": "India",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in India, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Bangalore has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Bangalore often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Mumbai",
+        "country": "India",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in India, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Mumbai has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Mumbai often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Shanghai",
+        "country": "China",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in China, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Shanghai has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Shanghai often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Los Angeles",
+        "country": "USA",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in USA, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Los Angeles has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Los Angeles often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "San Francisco",
+        "country": "USA",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in USA, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "San Francisco has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in San Francisco often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Chicago",
+        "country": "USA",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in USA, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Chicago has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Chicago often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Boston",
+        "country": "USA",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in USA, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Boston has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Boston often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Vancouver",
+        "country": "Canada",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Canada, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Vancouver has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Vancouver often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Montreal",
+        "country": "Canada",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Canada, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Montreal has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Montreal often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Edinburgh",
+        "country": "UK",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in UK, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Edinburgh has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Edinburgh often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Brussels",
+        "country": "Belgium",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Belgium, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Brussels has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Brussels often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Florence",
+        "country": "Italy",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Italy, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Florence has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Florence often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Venice",
+        "country": "Italy",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Italy, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Venice has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Venice often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Lima",
+        "country": "Peru",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Peru, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Lima has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Lima often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Santiago",
+        "country": "Chile",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Chile, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Santiago has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Santiago often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Bogot\u00e1",
+        "country": "Colombia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Colombia, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Bogot\u00e1 has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Bogot\u00e1 often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Manila",
+        "country": "Philippines",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Philippines, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Manila has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Manila often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Dubai",
+        "country": "UAE",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in UAE, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Dubai has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Dubai often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Abu Dhabi",
+        "country": "UAE",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in UAE, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Abu Dhabi has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Abu Dhabi often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Doha",
+        "country": "Qatar",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Qatar, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Doha has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Doha often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Jerusalem",
+        "country": "Israel",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Israel, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Jerusalem has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Jerusalem often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Saudi Arabia, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Riyadh has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Riyadh often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Morocco, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Casablanca has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Casablanca often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Morocco, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Marrakech has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Marrakech often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Havana",
+        "country": "Cuba",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Cuba, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Havana has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Havana often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Puerto Rico, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "San Juan has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in San Juan often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Uruguay, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Montevideo has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Montevideo often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "La Paz",
+        "country": "Bolivia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Bolivia, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "La Paz has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in La Paz often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Kathmandu",
+        "country": "Nepal",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Nepal, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Kathmandu has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Kathmandu often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Sri Lanka, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Colombo has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Colombo often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Auckland",
+        "country": "New Zealand",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in New Zealand, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Auckland has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Auckland often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Wellington",
+        "country": "New Zealand",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in New Zealand, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Wellington has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Wellington often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Iceland, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Reykjavik has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Reykjavik often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Luxembourg, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Luxembourg City has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Luxembourg City often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Slovakia, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Bratislava has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Bratislava often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Bulgaria, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Sofia has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Sofia often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Bucharest",
+        "country": "Romania",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Romania, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Bucharest has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Bucharest often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Tallinn",
+        "country": "Estonia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Estonia, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Tallinn has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Tallinn often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Lithuania, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Vilnius has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Vilnius often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Riga",
+        "country": "Latvia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Latvia, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Riga has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Riga often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Belgrade",
+        "country": "Serbia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Serbia, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Belgrade has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Belgrade often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Ljubljana",
+        "country": "Slovenia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Slovenia, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Ljubljana has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Ljubljana often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Zagreb",
+        "country": "Croatia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Croatia, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Zagreb has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Zagreb often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Bosnia and Herzegovina, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Sarajevo has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Sarajevo often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Skopje",
+        "country": "North Macedonia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in North Macedonia, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Skopje has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Skopje often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Tbilisi",
+        "country": "Georgia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Georgia, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Tbilisi has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Tbilisi often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Yerevan",
+        "country": "Armenia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Armenia, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Yerevan has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Yerevan often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Azerbaijan, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Baku has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Baku often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Almaty",
+        "country": "Kazakhstan",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Kazakhstan, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Almaty has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Almaty often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Uzbekistan, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Tashkent has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Tashkent often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Ulaanbaatar",
+        "country": "Mongolia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Mongolia, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Ulaanbaatar has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Ulaanbaatar often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Suva",
+        "country": "Fiji",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Fiji, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Suva has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Suva often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Papua New Guinea, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Port Moresby has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Port Moresby often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Dakar",
+        "country": "Senegal",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Senegal, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Dakar has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Dakar often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Accra",
+        "country": "Ghana",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Ghana, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Accra has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Accra often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Lagos",
+        "country": "Nigeria",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Nigeria, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Lagos has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Lagos often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Nairobi",
+        "country": "Kenya",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Kenya, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Nairobi has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Nairobi often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Tanzania, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Dar es Salaam has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Dar es Salaam often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Kampala",
+        "country": "Uganda",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Uganda, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Kampala has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Kampala often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Ethiopia, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Addis Ababa has a unique tradition where locals have a special greeting custom.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Addis Ababa often explore underground tunnels."
+        ]
+    },
+    {
+        "city": "Harare",
+        "country": "Zimbabwe",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Zimbabwe, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Harare has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a historic marketplace that dates back centuries.",
+            "Visitors in Harare often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Maputo",
+        "country": "Mozambique",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a historic monument.",
+            "Located in Mozambique, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Maputo has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to ancient mythology."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Maputo often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Madagascar, this city is known for its beautiful architecture."
+        ],
+        "fun_fact": [
+            "Antananarivo has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Antananarivo often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Noum\u00e9a",
+        "country": "New Caledonia",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in New Caledonia, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Noum\u00e9a has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a famous ruler."
+        ],
+        "trivia": [
+            "This city is home to a famous street known for its nightlife.",
+            "Visitors in Noum\u00e9a often take boat rides along a river."
+        ]
+    },
+    {
+        "city": "Porto",
+        "country": "Portugal",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a breathtaking skyline.",
+            "Located in Portugal, this city is known for its rich culture."
+        ],
+        "fun_fact": [
+            "Porto has a unique tradition where locals eat a specific dish on special occasions.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Porto often visit a famous palace or castle."
+        ]
+    },
+    {
+        "city": "Seville",
+        "country": "Spain",
+        "clues": [
+            "This city is famous for its iconic landmarks such as a world-renowned museum.",
+            "Located in Spain, this city is known for its amazing cuisine."
+        ],
+        "fun_fact": [
+            "Seville has a unique tradition where locals celebrate an unusual festival.",
+            "The city's name has an interesting origin related to a historic event."
+        ],
+        "trivia": [
+            "This city is home to one of the tallest buildings in the world.",
+            "Visitors in Seville often take boat rides along a river."
+        ]
+    }
+]
